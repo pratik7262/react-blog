@@ -39,7 +39,7 @@ export const BlogCards = () => {
                 width="160px"
                 height="220px"
                 alt="second"
-                src="/images/img_2.jpeg"
+                src="https://source.unsplash.com/random"
               />
             </CardMedia>
           </Box>
@@ -73,7 +73,7 @@ export const BlogCards = () => {
                 width="160px"
                 height="220px"
                 alt="second"
-                src="/images/img_2.jpeg"
+                src="https://source.unsplash.com/random"
               />
             </CardMedia>
           </Box>

@@ -13,7 +13,7 @@ export const Thumbnail = () => {
       >
         <img
           style={{ width: "1152px" }}
-          src="/images/img_2.jpeg"
+          src={"https://source.unsplash.com/random"}
           alt="img"
         />
       </Box>
